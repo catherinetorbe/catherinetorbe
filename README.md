@@ -31,7 +31,7 @@
 
 ## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-catherinetorbe%40gmail.com-red?logo=gmail)](mailto:catherinetorbe@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-catherinetagao-black?logo=github)](https://github.com/catherinetagao)  
+[![GitHub](https://img.shields.io/badge/GitHub-catherinetagao-black?logo=github)](https://github.com/catherinetorbe)  
 
 ---
 
