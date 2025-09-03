@@ -28,6 +28,7 @@
 ![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=catherinetagao&show_icons=true&theme=tokyonight)  
 ![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=catherinetorbe&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinetagao&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catherinetorbe&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
